@@ -1,8 +1,7 @@
-Power BI Training - 29/11/2021
+List of Power BI Training items
 
-Power Query
-
-Connections
+# Power Query
+## Connections
 - SharePoint
 - OneDrive
 - Remedyforce
@@ -12,16 +11,19 @@ Connections
 - API
 - Powershell -> CSV
 - Powershell -> SQL
-
-Transformations
+<br/><br/>
+## Transformations
 - Query folding https://docs.microsoft.com/en-us/power-query/power-query-folding
 - Renaming (prefix DateTime)
-- Merge Queries
+- Append & Merge Queries (different joins)
 
-
-Data Modelling
-DAX
-Visualisation
+## Parameters & Functions
 
 
 
+<br/><br/>
+# Data Modelling
+<br/><br/>
+# DAX
+<br/><br/>
+# Visualisation
