@@ -1,0 +1,14 @@
+{
+    "coffeebreak.emails": [
+        "anubhav.kakar@kcl.ac.uk"
+    ],
+    "coffeebreak.mentions": {
+        "Anu": {
+            "email": "anubhav.kakar@kcl.ac.uk"
+        },
+        "Sara": {}
+    },
+    "coffeebreak.sync": {
+        "command": "coffeebreak.syncDisabled"
+    }
+}
