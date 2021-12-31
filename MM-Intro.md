@@ -23,7 +23,7 @@ This is what the meeting was about. It was about a lot of things, it was about a
 
 - [ ] @Sara Clean the bathroom by 2021-12-29
 - [ ] @Sara Brush your teeth by 2021-12-29
-- [ ] @Sara Wash the clothes by 2022-01-20
+- [ ] @Sara Wash the clothes by 2022-01-03
 - [ ] @Anu Supervise Sara cleaning the bathroom 2021-12-29
 - [ ] @Anu Review task list 2021-12-31
 
