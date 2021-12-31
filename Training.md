@@ -18,7 +18,12 @@ List of Power BI Training items
 - Append & Merge Queries (different joins)
 
 ## Parameters & Functions
+- Creating parameters & functions
+- Using functions & parameters in tables
 
+## Standards
+- Folder structure
+- Table names
 
 
 <br/><br/>
