@@ -48,6 +48,7 @@
 - Slowly Changing
 - Role playing
 - Junk
+- Factless
 <br/><br/>
 
 ## Relationships
