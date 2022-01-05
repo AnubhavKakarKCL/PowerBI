@@ -73,7 +73,7 @@
 - Disconnected tables
 <br/><br/>
 
-## Vertipaq
+## VertiPaq
 
 - Columnar Data Structure
 - Compression & Encoding
