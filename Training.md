@@ -39,6 +39,7 @@
 
 # Data Modelling
 
+## General
 - Understanding star schema
 - Power Query columns vs DAX calculated column
 <br/><br/>
@@ -57,6 +58,27 @@
 <br/><br/>
 
 # DAX
+
+## Vertipaq
+- Columnar Data Structure
+- Compression & Encoding
+- Hash Encoding
+- Value Encording
+- Run-length Encoding
+<br/><br/>
+
+## Functions
+- Time Intelligence
+- Rolling Averages
+- Which ALL to use?
+- Disconnected tables
+
+## Advanced
+- Filter vs Row Context
+- Scalar vs Table values
+- Calculate vs Filter
 <br/><br/>
 
 # Visualisation
+
+
