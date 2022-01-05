@@ -12,7 +12,7 @@
 <br/><br/>
 
 ## Transformations
-- Query folding https://docs.microsoft.com/en-us/power-query/power-query-folding
+- [Query folding](https://docs.microsoft.com/en-us/power-query/power-query-folding)
 - Renaming columns (prefix DateTime)
 - Renaming steps
 - Append & Merge Queries (different joins)
@@ -41,7 +41,7 @@
 # Data Modelling
 
 ## General
-- Understanding star schema
+- Understanding [star schema](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema)
 - Power Query columns vs DAX calculated column
 <br/><br/>
 
@@ -60,19 +60,19 @@
 
 # DAX
 
+## Functions
+- Time Intelligence
+- Rolling Averages
+- Which ALL to use?
+- Disconnected tables
+<br/><br/>
+
 ## Vertipaq
 - Columnar Data Structure
 - Compression & Encoding
 - Hash Encoding
 - Value Encording
 - Run-length Encoding
-<br/><br/>
-
-## Functions
-- Time Intelligence
-- Rolling Averages
-- Which ALL to use?
-- Disconnected tables
 <br/><br/>
 
 ## Advanced
@@ -83,4 +83,24 @@
 
 # Visualisation
 
+## 15 dashboard design rules
+1. Design for a target
+2. Keep everything at a glance
+3. Keep it simple
+4. Align elements
+5. Be consistent
+6. Highlight the most relevant information
+7. Be clear
+8. Start from zero
+9. Shorten numbers
+10. Show context
+11. Choose the right colours
+12. Design dashboards, not reports
+13. Show variations
+14. Leave the noise off
+15. Pick the right charts
+
+## Design thinking process
+- Layout
+- 
 
