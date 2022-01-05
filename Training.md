@@ -1,5 +1,7 @@
 # Power Query
+
 ## Connections
+
 - SharePoint
 - OneDrive
 - Remedyforce
@@ -7,11 +9,12 @@
 - Dataflow
 - Google Analytics
 - API
-- Powershell -> CSV
-- Powershell -> SQL
+- Powershell - CSV
+- Powershell - SQL
 <br/><br/>
 
 ## Transformations
+
 - [Query folding](https://docs.microsoft.com/en-us/power-query/power-query-folding)
 - Renaming columns (prefix DateTime)
 - Renaming steps
@@ -41,6 +44,7 @@
 # Data Modelling
 
 ## General
+
 - Understanding [star schema](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema)
 - Power Query columns vs DAX calculated column
 <br/><br/>
@@ -54,6 +58,7 @@
 <br/><br/>
 
 ## Relationships
+
 - Directionality
 - Snowflake
 <br/><br/>
@@ -61,6 +66,7 @@
 # DAX
 
 ## Functions
+
 - Time Intelligence
 - Rolling Averages
 - Which ALL to use?
@@ -68,6 +74,7 @@
 <br/><br/>
 
 ## Vertipaq
+
 - Columnar Data Structure
 - Compression & Encoding
 - Hash Encoding
@@ -76,6 +83,7 @@
 <br/><br/>
 
 ## Advanced
+
 - Filter vs Row Context
 - Scalar vs Table values
 - Calculate vs Filter
@@ -83,7 +91,17 @@
 
 # Visualisation
 
-## 15 dashboard design rules
+## [Process](https://emckclac.sharepoint.com/sites/its3/eas/data/Reporting/Operational/Process-Design.pptx?web=1)
+
+- Research
+- Define
+- Sketch
+- Create
+- Test
+<br/><br/>
+
+## [Principles](https://youtu.be/-tdkUYrzrio)
+
 1. Design for a target
 2. Keep everything at a glance
 3. Keep it simple
@@ -99,8 +117,7 @@
 13. Show variations
 14. Leave the noise off
 15. Pick the right charts
+16. Whitespacing is awesome
+<br/><br/>
 
-## Design thinking process
-- Layout
-- 
 
