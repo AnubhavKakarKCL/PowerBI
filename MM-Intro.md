@@ -1,8 +1,8 @@
-2021-12-29
+2022-01-05
 
 # Attendees
 
-- Sara Galetto
+- Joe Kent
 - Anubhav Kakar
 
 # Agenda
@@ -21,11 +21,10 @@ This is what the meeting was about. It was about a lot of things, it was about a
 
 # Actions
 
-- [ ] @Sara Clean the bathroom by 2021-12-29
-- [ ] @Sara Brush your teeth by 2021-12-29
-- [ ] @Sara Wash the clothes by 2022-01-03
-- [ ] @Anu Supervise Sara cleaning the bathroom 2021-12-29
-- [ ] @Anu Review task list 2021-12-31
+- [ ] @Joe clean dax_table by 2022-01-06
+- [ ] @Joe transform dax_Table by 2022-01-09
+- [ ] @Anu code review Joe's dax_table 2022-01-25
+- [ ] @Anu Review task list 2022-01-10
 
 <br/>
 

@@ -29,6 +29,7 @@
 - Column quality, distributon, profiling
 - Table profiling
 - Data quality
+<br/><br/>
 
 ## Best Practice
 
@@ -72,6 +73,7 @@
 - Rolling Averages
 - Which ALL to use?
 - Disconnected tables
+<br/><br/>
 
 ## Advanced
 - Filter vs Row Context
