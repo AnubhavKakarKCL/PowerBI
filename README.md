@@ -2,7 +2,9 @@
 
 ## DAX
 
-### IsDateRange
+### Calculated Columns
+
+#### IsDateRange
 
 Used to denote date range
 
