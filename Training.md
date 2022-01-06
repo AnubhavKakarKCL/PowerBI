@@ -76,7 +76,6 @@
 ## VertiPaq
 
 - Columnar Data Structure
-- Compression & Encoding
 - Hash Encoding
 - Value Encording
 - Run-length Encoding
