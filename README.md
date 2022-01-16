@@ -25,3 +25,5 @@ DATEDIFF(MIN(Project[Date Start]),'Calendar'[Date],DAY)>-1)
 [Understanding Star Schema](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema)
 
 [SUMMARIZE vs SUMMARIZECOLUMNS](https://www.sqlbi.com/articles/introducing-summarizecolumns/)
+
+[Power BI Cleaner](https://www.thebiccountant.com/2021/08/23/power-bi-cleaner-gen2-now-covers-analysis-services-models-as-well/)
