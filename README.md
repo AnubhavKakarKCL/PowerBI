@@ -27,3 +27,7 @@ DATEDIFF(MIN(Project[Date Start]),'Calendar'[Date],DAY)>-1)
 [SUMMARIZE vs SUMMARIZECOLUMNS](https://www.sqlbi.com/articles/introducing-summarizecolumns/)
 
 [Power BI Cleaner](https://www.thebiccountant.com/2021/08/23/power-bi-cleaner-gen2-now-covers-analysis-services-models-as-well/)
+
+## Github
+
+[Power BI Themes](https://github.com/deldersveld/PowerBI-ThemeTemplates)
