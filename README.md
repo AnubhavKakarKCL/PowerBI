@@ -21,6 +21,7 @@ DATEDIFF(MIN(Project[Date Start]),'Calendar'[Date],DAY)>-1)
 [15 UI Principles](https://youtu.be/-tdkUYrzrio) - Marco Russo discusses 15 rules to follow when designing good Power BI user interfaces
 
 [Data Mesh part 1](https://www.starburst.io/resources/datanova-2021/?submissionGuid=f8acec13-88e4-4772-b76e-f83714e0eaed&wchannelid=d4oyeh306b&wmediaid=1z50qr8fh6)
+
 [Data Mesh part 2](https://www.starburst.io/resources/datanova-2021/?submissionGuid=f8acec13-88e4-4772-b76e-f83714e0eaed&wchannelid=d4oyeh306b&wmediaid=3sb7nbjc7f)
 
 ## Blogs
