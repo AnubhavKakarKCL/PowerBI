@@ -12,6 +12,35 @@ IsDateRange = AND(DATEDIFF(MAX(Project[Date End]),'Calendar'[Date],DAY)<1,
 DATEDIFF(MIN(Project[Date Start]),'Calendar'[Date],DAY)>-1)
 ```
 
+### YoY
+
+```
+YoY = SWITCH (TRUE,
+    ISINSCOPE ( Fact_Incident[Open_DateHour] ),
+        CALCULATE (
+            [# Received],
+            DATEADD ('Calendar'[Date], -1, YEAR ),
+            ALL('Calendar'),
+            ALL('DatePeriod')
+        ),
+    ISINSCOPE ( 'Calendar'[Date] ),
+        CALCULATE (
+            [# Received],
+            FILTER(ALL('Calendar'),'Calendar'[DWY] = MAX ( 'Calendar'[DWY] ) - 1),
+            ALL('DatePeriod')
+        ),
+    ISINSCOPE ( 'Calendar'[Week Month Year]),
+        CALCULATE (
+            [# Received],
+            FILTER(ALL('Calendar'),'Calendar'[WY] = MAX ( 'Calendar'[WY] ) - 1),
+            ALL('DatePeriod')
+        ),
+        CALCULATE ( [# Received],
+            ALL('Calendar'),
+            ALL('DatePeriod'),
+            DATEADD ( 'Calendar'[Date], -1, YEAR ) ))
+```
+
 # Useful Links
 
 ## Videos
