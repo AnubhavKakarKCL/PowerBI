@@ -68,4 +68,5 @@ YoY = SWITCH (TRUE,
 ## DAX
 
 [Return 0 instead of BLANKS](https://www.sqlbi.com/articles/how-to-return-0-instead-of-blank-in-dax/)
+
 [Calculation groups to selectively replace measures](https://www.sqlbi.com/articles/using-calculation-groups-to-selectively-replace-measures-in-dax-expressions/)
